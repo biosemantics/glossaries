@@ -7,6 +7,8 @@
 #Source producer: OTO System
 
 "term","category","hasSyn","sourceDataset","termID"
+"left_pupil","structure", "0", "user_experiment_2018", ""
+"right_pupil","structure", "0", "user_experiment_2018", ""
 "s_shaped","shape","0","fna_gloss_final_20130517","ee90297a-b491-43ab-968d-fc3cdb96dc13"
 "u_form","arrangement","0","fna_gloss_final_20130517","26c080c2-f69b-45e4-8aef-74cc0be76d16"
 "v_form","arrangement","0","fna_gloss_final_20130517","58f9c182-54aa-467d-b24d-124b01256b1e"
